@@ -1,7 +1,5 @@
 # GiocaNumeri
 
-# GiocaNumeri
-
 ## Comportamento
 Il programma richiede un numero intero positivo e una parola per ciascuno
 dei due giocatori, Monica e Paolo.
